@@ -1,8 +1,6 @@
 node_modules/
-.env
-.env.*
-!.env.example
+_shots/
+_tools/
 *.log
 .DS_Store
-.idea/
-.vscode/
+Thumbs.db
